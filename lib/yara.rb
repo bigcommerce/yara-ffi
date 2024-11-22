@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 require "ffi"
-require "pry"
 require_relative "yara/ffi"
 require_relative "yara/scan_result"
 require_relative "yara/scanner"
